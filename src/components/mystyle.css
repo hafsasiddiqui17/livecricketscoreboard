@@ -1,0 +1,26 @@
+ 
+body {
+    background-color: #c51162;
+    color: aliceblue;
+}
+
+
+button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary {
+    margin-left: 1em;
+}
+.MuiGrid-root.MuiGrid-container.MuiGrid-spacing-xs-3.MuiGrid-justify-xs-center {
+    margin-top: 1em;
+    padding: 2em;
+}
+
+.fnt{
+    font-style: "italic"; 
+    font-weight:bold;
+}
+.MuiPaper-root.MuiCard-root.MuiPaper-elevation1.MuiPaper-rounded {
+    background-color: #776b77;
+}
+h5.MuiTypography-root.MuiTypography-h5 {
+    margin-top: 1em;
+    text-align: center;
+}
